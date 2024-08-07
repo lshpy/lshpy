@@ -1,0 +1,12 @@
+- 👋 Hi, I’m @lshpy
+- 
+- 👀 I’m interested in Natural Language Processing(NLP)
+- 🌱 I’m currently learning Deepleaning:)
+- 💞️ I’m looking to collaborate on beginners with enthusiasm!!!
+- 📫 How to reach me leesh4660@gmail.com
+
+
+<!---
+lshpy/lshpy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
