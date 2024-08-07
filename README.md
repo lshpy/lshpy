@@ -2,7 +2,7 @@
 - 
 - 👀 I’m interested in Natural Language Processing(NLP)
 - 🌱 I’m currently learning Deepleaning:)
-- 💞️ I’m looking to collaborate on beginners with enthusiasm!!!
+- 💞️ I’m looking to collaborate on beginners with enthusiasm!
 - 📫 How to reach me leesh4660@gmail.com
 
 
