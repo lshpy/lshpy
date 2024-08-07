@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @lshpy
-- 
 - 👀 I’m interested in Natural Language Processing(NLP), Deep Learning
 - 🌱 I’m currently learning Deep Leaning
 - 💞️ I’m looking to collaborate on beginners with enthusiasm!
