@@ -6,7 +6,7 @@
 - 🎓 **Education:** Industrial & Management Engineering & Mathematics @ Korea Univ.
 - 🔬 **Research:** Undergraduate Researcher at **DLmath Lab**.
 - 🔭 **Interests:** Deep Learning, Topological Data Analysis (TDA), Reinforcement Learning.
-- 🎻 **Hobby:** Playing the violin in an orchestra.
+
 
 ### 🛠 Tech Stack
 <p>
