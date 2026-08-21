@@ -3,7 +3,7 @@
 Undergraduate researcher at Korea University — B.S. in Industrial and Management
 Engineering with a double major in Mathematics (March 2023 – expected February 2027).
 Undergraduate research intern at [DLmath Lab](https://github.com/DLmath-Lab) under
-Prof. Seungsang Oh since March 2025.
+Prof. Seungsang Oh from March to December 2025.
 
 I work on **explainable regularization**: using interpretability signals to decide what
 a network should suppress *during* training, instead of reading explanations off a model
@@ -94,7 +94,7 @@ of training. Reference implementation, the ViT head-level variant, and baselines
 
 ### Experience
 
-- **Undergraduate research intern**, DLmath Lab, Korea University (March 2025 – present)
+- **Undergraduate research intern**, DLmath Lab, Korea University (March – December 2025)
 - **Student researcher**, national research projects (September – December 2025):
   quantum knot invariants and the spatial stability of DNA supercoils (R2411422), and
   deep learning for speech data discrimination (M1000991)
