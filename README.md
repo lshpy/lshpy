@@ -12,6 +12,7 @@ instead of reading explanations off a model after it has finished learning.</i><
 
 <p>
 <a href="https://orcid.org/0009-0006-1926-653X"><img src="https://img.shields.io/badge/ORCID-0009--0006--1926--653X-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"></a>
+<a href="https://scholar.google.com/citations?user=tF4t_ncAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
 <a href="mailto:leesh4660@gmail.com"><img src="https://img.shields.io/badge/Email-leesh4660@gmail.com-3A4A5A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://github.com/lshpy/sdrop"><img src="https://img.shields.io/badge/Code-SDrop-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="SDrop"></a>
 </p>
@@ -28,19 +29,20 @@ instead of reading explanations off a model after it has finished learning.</i><
 
 > [!IMPORTANT]
 > ### Suppressive Dropout (SDrop)
-> Standard dropout removes units at random; targeted dropout removes the weakest ones.
-> **SDrop removes the most dominant channels** — those that are both high-energy and
-> spatially diffuse — on the argument that, through lateral inhibition, they monopolize
-> the representation and starve detectors for rare or minority-class features of gradient.
-> Dominance is scored by `s_c = E_c (1 − P_c)` from the activation map in a **single
-> forward pass**, cheap enough to run at every step of training.
+> When a pretrained network is fine-tuned on data in which the background predicts the label,
+> it comes to rely on the background. **SDrop drops each sample's most active channels during
+> fine-tuning**, the reverse of what channel attention and weighted dropout do, on the hypothesis
+> that those channels carry the shortcut and absorb the classifier's reliance.
+> It has no learned parameters, uses no labels, and is the identity at test time.
+> Budget-matched random, shuffled and reverse controls separate *which* channels are dropped
+> from the act of dropping, and a diagnostic of the pretrained backbone indicates where the
+> method applies and where it does not.
 >
-> Reference implementation, the ViT head-level variant, and baselines (DropBlock, SE, CBAM):
-> **[lshpy/sdrop](https://github.com/lshpy/sdrop)**
+> Reference implementation of the xAI 2026 demo: **[lshpy/sdrop](https://github.com/lshpy/sdrop)**
 
 ## Research interests
 
-`Explainable AI` · `mechanistic interpretability` · `regularization and generalization` ·
+`Explainable AI` · `mechanistic interpretability` · `spurious correlations and shortcut learning` · `regularization and generalization` ·
 `topological data analysis` · `biomedical signals and images`
 
 ## Publications
@@ -73,9 +75,9 @@ Submitted 10 April 2026. The journal-length extension of the paper above.
 
 <img src="https://img.shields.io/badge/in%20preparation-546E7A?style=flat-square" alt="in preparation">
 
-**Extended study of Suppressive Dropout, with a head-level variant for vision
-transformers.** With **Prof. Luca Longo** (University College Cork).
-Manuscript in preparation for *Machine Learning* (Springer), as of August 2026.
+**Suppressive Dropout: Suppressing Dominant Channels During Fine-Tuning Reduces Reliance
+on a Background Shortcut.** With **Prof. Luca Longo** (University College Cork).
+Manuscript in preparation for *Machine Learning* (Springer), as of September 2026.
 
 ## Repositories
 
@@ -83,7 +85,7 @@ Manuscript in preparation for *Machine Learning* (Springer), as of August 2026.
 
 | Repository | Description |
 |---|---|
-| **[sdrop](https://github.com/lshpy/sdrop)** | Suppressive Dropout — reference implementation, ViT head-level variant, baselines, and the xAI 2026 paper |
+| **[sdrop](https://github.com/lshpy/sdrop)** | Suppressive Dropout — reference implementation and paper for the xAI 2026 demo |
 | **[explainable-heart-risk](https://github.com/lshpy/explainable-heart-risk)** | Per-patient SHAP attributions for cardiovascular risk prediction (CV AUC 0.907) |
 
 **Preliminary studies** — technical reports, not peer-reviewed, not clinically validated
@@ -159,8 +161,9 @@ training and want to compare notes.<br>
 <a href="mailto:leesh4660@gmail.com"><img src="https://img.shields.io/badge/leesh4660@gmail.com-3A4A5A?style=for-the-badge&logo=gmail&logoColor=white" alt="personal email"></a>
 <a href="mailto:sh200411@korea.ac.kr"><img src="https://img.shields.io/badge/sh200411@korea.ac.kr-8B0000?style=for-the-badge&logo=maildotru&logoColor=white" alt="university email"></a>
 <a href="https://orcid.org/0009-0006-1926-653X"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"></a>
+<a href="https://scholar.google.com/citations?user=tF4t_ncAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
 </p>
 
-<sub>Last updated 21 August 2026</sub>
+<sub>Last updated 27 September 2026</sub>
 
 </div>
