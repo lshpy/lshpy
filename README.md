@@ -13,6 +13,7 @@ instead of reading explanations off a model after it has finished learning.</i><
 <p>
 <a href="https://orcid.org/0009-0006-1926-653X"><img src="https://img.shields.io/badge/ORCID-0009--0006--1926--653X-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"></a>
 <a href="https://scholar.google.com/citations?user=tF4t_ncAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
+<a href="https://www.linkedin.com/in/seunghyun-lee-2642853b2/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:leesh4660@gmail.com"><img src="https://img.shields.io/badge/Email-leesh4660@gmail.com-3A4A5A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://github.com/lshpy/sdrop"><img src="https://img.shields.io/badge/Code-SDrop-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="SDrop"></a>
 </p>
@@ -162,6 +163,7 @@ training and want to compare notes.<br>
 <a href="mailto:sh200411@korea.ac.kr"><img src="https://img.shields.io/badge/sh200411@korea.ac.kr-8B0000?style=for-the-badge&logo=maildotru&logoColor=white" alt="university email"></a>
 <a href="https://orcid.org/0009-0006-1926-653X"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"></a>
 <a href="https://scholar.google.com/citations?user=tF4t_ncAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
+<a href="https://www.linkedin.com/in/seunghyun-lee-2642853b2/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 <sub>Last updated 27 September 2026</sub>
