@@ -21,7 +21,7 @@ instead of reading explanations off a model after it has finished learning.</i><
 <p>
 <img src="https://img.shields.io/badge/xAI_2026-Demo_Track,_sole_author-00695C?style=flat-square" alt="xAI 2026">
 <img src="https://img.shields.io/badge/Physica_Scripta-101_(2026)_225216-1B5E20?style=flat-square" alt="Physica Scripta">
-<img src="https://img.shields.io/badge/Neurocomputing-under_review-B26500?style=flat-square" alt="Neurocomputing">
+<img src="https://img.shields.io/badge/Neurocomputing-revision_under_review-B26500?style=flat-square" alt="Neurocomputing">
 </p>
 
 </div>
@@ -70,15 +70,20 @@ Fortaleza, Brazil, **1–3 July 2026**.
 
 <img src="https://img.shields.io/badge/under%20review-B26500?style=flat-square" alt="under review">
 
-**Suppressive Dropout: An Explainable Channel-Selective Regularization Method for
-Preserving Rare Features.** *Sole author.* *Neurocomputing* (Elsevier).
-Submitted 10 April 2026. The journal-length extension of the paper above.
+**Suppressive Dropout: Dropping High-Energy Feature Maps Improves Worst-Group Accuracy
+on a Spurious-Correlation Benchmark.** **Seunghyun Lee**, Luca Longo (University College Cork).
+*Neurocomputing* (Elsevier). Submitted 10 April 2026; revised manuscript (R1) submitted
+18 October 2026 with count-, mass- and class-bias-matched controls over 14 paired seeds.
+The journal-length extension of the paper above.
 
 <img src="https://img.shields.io/badge/in%20preparation-546E7A?style=flat-square" alt="in preparation">
 
-**Suppressive Dropout: Suppressing Dominant Channels During Fine-Tuning Reduces Reliance
-on a Background Shortcut.** With **Prof. Luca Longo** (University College Cork).
-Manuscript in preparation for *Machine Learning* (Springer), as of September 2026.
+**Extended SDrop study** with **Prof. Luca Longo** (University College Cork),
+planned for *Machine Learning* (Springer) after the Neurocomputing decision.
+
+**Bayesian outbreak source investigation with minimum refuting evidence.**
+With a life-science co-author. In preparation for the AAAI-27 workshop W3PHIAI
+(Health Intelligence), Korea University undergraduate research program (URP), November 2026.
 
 ## Repositories
 
@@ -112,8 +117,8 @@ Manuscript in preparation for *Machine Learning* (Springer), as of September 202
 | Date | Venue | Format |
 |---|---|---|
 | **1–3 July 2026** | xAI 2026, Fortaleza, Brazil | Poster and live demo |
-| September 2025 | KU AI Forum, Korea University | Poster |
-| Fall 2025 | AIML@K Workshop 2025 Fall, Korea University | Oral |
+| 12 September 2025 | KU AI Forum, Korea University — mathematical comparison of LLM attention | Poster |
+| 12 September 2025 | AIML@K Workshop 2025 Fall, Korea University | Oral |
 | 30 June – 3 July 2025 | 9th School on Advanced Deep Learning (SADL), Jeonbuk National University | Seminar |
 
 ## Experience
@@ -122,18 +127,22 @@ Manuscript in preparation for *Machine Learning* (Springer), as of September 202
 |---|---|
 | Mar – Dec 2025 | **Undergraduate research intern**, DLmath Lab, Korea University, under Prof. Seungsang Oh |
 | Sep – Dec 2025 | **Student researcher**, national research projects — quantum knot invariants and the spatial stability of DNA supercoils (R2411422); deep learning for speech data discrimination (M1000991) |
-| Mar – Dec 2025 | **Industry collaboration with Telecons**, via DLmath Lab — thermal-imaging patient status classification for contactless monitoring in nursing hospitals |
-| 2025 – present | **EEG/ECG foundation model research team**, Korea University — responsible for the ECG heartbeat-detection component |
-| Feb 2026 | **IES Winter School**, King's College London — two-week module *Foundations of Artificial Intelligence*; project on adversarial pursuit over the London Underground graph, comparing heuristic, MCTS, and RL agents |
+| May – Dec 2025 | **Industry collaboration with Telecons**, via DLmath Lab — thermal-imaging patient detection and fall-detection model design and lightweighting |
+| Oct 2025 – Jan 2026 | **Student researcher**, Prof. Ilyeop Kwak's lab, Dept. of Applied Statistics, Chung-Ang University — evaluated an EEG/ECG foundation model on multi-site data; ECG R-peak detection |
+| Feb – Apr 2026 | **IES Winter School**, King's College London — *Foundations of Artificial Intelligence* (45 hours, taught in English); project on adversarial pursuit over the London Underground graph, comparing heuristic, MCTS, and RL agents |
+| Jan 2026 | **Ontology modeling bootcamp**, Korea University — RDF/OWL knowledge graphs and Graph RAG with Neo4j |
+| Sep 2026 – Feb 2027 | **Undergraduate research scholar**, Ministry of Education 'STEM Talent Growth Path' program (BK21 pilot), Korea University |
 
 ## Awards
 
 | Year | Award |
 |---|---|
-| 2026 | **Silver Award**, Energy AI Workflow Education & Hackathon *(project lead)* |
+| 2026 | **Next-Generation Engineer**, Korea Institute for the Promotion of Engineering & Science (IPESK) |
+| 2026 | **Selected scholar**, Ministry of Education STEM Talent Growth Path program (BK21 pilot) |
+| 2026 | **Silver Award**, Energy AI Workflow Education & Hackathon *(project lead, n8n pipeline)* |
 | 2025 | **Startup Jinri Scholarship**, Korea University |
 | 2025 | **Challenge Award**, Hwaseong City Policy Competition |
-| 2024 | **Dean's List and Academic Excellence Award** *(Spring 2024)* |
+| 2023–2025 | **Academic honors five times**, Korea University — Dean's List and Academic Excellence Award |
 
 ## Technical
 
@@ -166,6 +175,6 @@ training and want to compare notes.<br>
 <a href="https://www.linkedin.com/in/seunghyun-lee-2642853b2/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
-<sub>Last updated 27 September 2026</sub>
+<sub>Last updated 16 November 2026</sub>
 
 </div>
